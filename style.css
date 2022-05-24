@@ -1,0 +1,19 @@
+body{
+    background-color:blue;
+}
+h1 ,h3{
+    color: aliceblue;
+}
+.logo{
+    width: 15%;
+}
+img{
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 80%;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
