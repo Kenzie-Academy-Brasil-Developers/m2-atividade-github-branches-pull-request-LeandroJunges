@@ -17,3 +17,6 @@ ul{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+li:hover{
+ margin: 0 auto;
+}
