@@ -17,6 +17,8 @@ ul{
     flex-wrap: wrap;
     justify-content: space-around;
 }
-li:hover{
- margin: 0 auto;
+img:hover{
+
+ border: 1px solid red;
+ border-radius: 50px;
 }
